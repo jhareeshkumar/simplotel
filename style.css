@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF7171;
+    font-family: Georgia;
+    padding: 10px;
+    
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #000000;
+}
+
+.nav-link img {
+    height: 20px;
+}
